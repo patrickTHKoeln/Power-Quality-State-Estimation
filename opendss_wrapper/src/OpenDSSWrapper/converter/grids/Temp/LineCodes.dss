@@ -1,0 +1,7 @@
+New LineCode.NA2XS2Y nphases=3 baseFreq=50.0 units=km R1=0.313 X1=0.132 C1=216.0 Normamps=0.252 R0=1.252 X0=0.396 C0=108.0
+New LineCode.OH3 nphases=3 baseFreq=50.0 units=km R1=2.0167 X1=0.3343 C1=210.0 Normamps=1.0 R0=8.0668 X0=1.0029 C0=105.0
+New LineCode.OH1 nphases=3 baseFreq=50.0 units=km R1=0.4917 X1=0.2847 C1=210.0 Normamps=1.0 R0=1.9668 X0=0.8541000000000001 C0=105.0
+New LineCode.UG1 nphases=3 baseFreq=50.0 units=km R1=0.162 X1=0.0832 C1=1100.0 Normamps=1.0 R0=0.648 X0=0.2496 C0=550.0
+New LineCode.OH2 nphases=3 baseFreq=50.0 units=km R1=1.3207 X1=0.321 C1=210.0 Normamps=1.0 R0=5.2828 X0=0.9630000000000001 C0=105.0
+New LineCode.UG2 nphases=3 baseFreq=50.0 units=km R1=0.2647 X1=0.0823 C1=1100.0 Normamps=1.0 R0=1.0588 X0=0.2469 C0=550.0
+New LineCode.UG3 nphases=3 baseFreq=50.0 units=km R1=0.822 X1=0.0847 C1=1100.0 Normamps=1.0 R0=3.288 X0=0.2541 C0=550.0

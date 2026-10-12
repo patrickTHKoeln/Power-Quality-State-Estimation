@@ -1,0 +1,3 @@
+New "Transformer.R0-R1" Windings=2 Basefreq=50.0 XHL=4.000000385904482 %LoadLoss=1.0 %NoloadLoss=0.3 %imag=3 wdg=1 bus=1 conn=delta kV=20.0 kVA=500.0 tap=1.0 wdg=2 bus=2 conn=wye kV=0.4 kVA=500.0 tap=1.0
+New "Transformer.I0-I1" Windings=2 Basefreq=50.0 XHL=4.003125132841966 %LoadLoss=1.003125 %NoloadLoss=0.3 %imag=3 wdg=1 bus=20 conn=delta kV=20.0 kVA=150.0 tap=1.0 wdg=2 bus=21 conn=wye kV=0.4 kVA=150.0 tap=1.0
+New "Transformer.C0-C1" Windings=2 Basefreq=50.0 XHL=3.993750103266478 %LoadLoss=0.99375 %NoloadLoss=0.3 %imag=3 wdg=1 bus=23 conn=delta kV=20.0 kVA=300.0 tap=1.0 wdg=2 bus=24 conn=wye kV=0.4 kVA=300.0 tap=1.0

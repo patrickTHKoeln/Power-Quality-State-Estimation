@@ -1,0 +1,15 @@
+New Load.R1 Bus1=2 Phases=3 Conn=wye Model=1 kV=0.4 kW=190.0 kvar=62.449980000000004
+New Load.R11 Bus1=12 Phases=3 Conn=wye Model=1 kV=0.4 kW=14.25 kvar=4.683748
+New Load.R15 Bus1=16 Phases=3 Conn=wye Model=1 kV=0.4 kW=49.4 kvar=16.236995
+New Load.R16 Bus1=17 Phases=3 Conn=wye Model=1 kV=0.4 kW=52.25 kvar=17.173744000000003
+New Load.R17 Bus1=18 Phases=3 Conn=wye Model=1 kV=0.4 kW=33.25 kvar=10.928746
+New Load.R18 Bus1=19 Phases=3 Conn=wye Model=1 kV=0.4 kW=44.650000000000006 kvar=14.675745000000001
+New Load.I2 Bus1=22 Phases=3 Conn=wye Model=1 kV=0.4 kW=85.0 kvar=52.678269
+New Load.C1 Bus1=24 Phases=3 Conn=wye Model=1 kV=0.4 kW=108.0 kvar=52.306787
+New Load.C12 Bus1=35 Phases=3 Conn=wye Model=1 kV=0.4 kW=18.0 kvar=8.717798
+New Load.C13 Bus1=36 Phases=3 Conn=wye Model=1 kV=0.4 kW=18.0 kvar=8.717798
+New Load.C14 Bus1=37 Phases=3 Conn=wye Model=1 kV=0.4 kW=22.5 kvar=10.897247
+New Load.C17 Bus1=40 Phases=3 Conn=wye Model=1 kV=0.4 kW=22.5 kvar=10.897247
+New Load.C18 Bus1=41 Phases=3 Conn=wye Model=1 kV=0.4 kW=7.2 kvar=3.487119
+New Load.C19 Bus1=42 Phases=3 Conn=wye Model=1 kV=0.4 kW=14.4 kvar=6.974238
+New Load.C20 Bus1=43 Phases=3 Conn=wye Model=1 kV=0.4 kW=7.2 kvar=3.487119

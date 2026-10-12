@@ -1,0 +1,13 @@
+clear
+set DefaultBaseFreq=50.0
+New Circuit.cigreLVTest basekv=20.0 bus1=0 pu=1.0 R1=2.828427 X1=2.828427 R0=11.313708 X0=8.485281
+Redirect LineCodes.dss
+Redirect Lines.dss
+Redirect Transformers.dss
+Redirect Loads.dss
+Redirect Renewables.dss
+Redirect Monitors.dss
+MakeBusList
+Buscoords C:Temp\BusCoords.dss
+Set Voltagebases=(20.0, 0.4)
+CalcVoltagebases
